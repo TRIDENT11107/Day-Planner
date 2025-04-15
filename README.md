@@ -45,7 +45,7 @@ Day Planner is a personal project designed to help users efficiently organize th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/day-planner.git
+   git clone https://github.com/TRIDENT11107/day-planner.git
    ```
 
 2. Navigate to the project directory:
